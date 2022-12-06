@@ -1,5 +1,6 @@
 package com.bootcoding.java;
-
+/* Question :Write a method that takes an integer minutes and converts it to seconds.
+*  */
 public class MinuteToSecond {
     public static int MinToSec(int n ){
         return n*60;
