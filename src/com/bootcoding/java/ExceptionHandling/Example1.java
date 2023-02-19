@@ -1,0 +1,15 @@
+package com.bootcoding.java.ExceptionHandling;
+
+public class Example1 {
+    public static void main(String[] args) {
+
+        System.out.println("I am in main ");
+        show();
+    }
+
+    private static void show() {
+        System.out.println("I am in show ");
+    }
+
+
+}
