@@ -1,4 +1,4 @@
-package com.bootcoding.java.CollectionFramework;
+package com.bootcoding.java.CollectionFramework.List;
 import java.util.ArrayList;
 import java.util.List;
 
