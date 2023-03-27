@@ -8,7 +8,7 @@ public class Example4 {
             FileInputStream fin = new FileInputStream("Sample.text");
             int ch;
             while((ch= fin.read())!=-1){
-                System.out.print((char) ch);
+                System.out.print((char) ch); // TYPECASTING
             }
             fin.close();
         }
