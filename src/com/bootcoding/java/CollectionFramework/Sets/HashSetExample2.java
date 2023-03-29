@@ -1,4 +1,4 @@
-package com.bootcoding.java.CollectionFramework.List.Map;
+package com.bootcoding.java.CollectionFramework.Sets;
 
 import com.bootcoding.java.CollectionFramework.List.Person;
 
