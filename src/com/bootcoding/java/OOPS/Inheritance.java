@@ -1,4 +1,4 @@
-package com.bootcoding.java.oops;
+package com.bootcoding.java.OOPS;
 class A {
   //  protected  int a;
  // public static void setA(int n1){

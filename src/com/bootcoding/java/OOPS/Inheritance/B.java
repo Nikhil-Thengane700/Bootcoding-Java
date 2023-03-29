@@ -1,4 +1,4 @@
-package com.bootcoding.java.oops.Inheritance;
+package com.bootcoding.java.OOPS.Inheritance;
 
 public class B extends A{
     B(){

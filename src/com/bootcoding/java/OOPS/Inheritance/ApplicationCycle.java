@@ -1,4 +1,4 @@
-package com.bootcoding.java.oops.Inheritance;
+package com.bootcoding.java.OOPS.Inheritance;
 
 public class ApplicationCycle {
     public static void main(String[] args) {
