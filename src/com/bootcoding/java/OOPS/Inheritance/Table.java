@@ -1,6 +1,4 @@
-package com.bootcoding.java.oops.Inheritance;
-
-import java.sql.SQLOutput;
+package com.bootcoding.java.OOPS.Inheritance;
 
 public class Table {
     //Parent class- child class

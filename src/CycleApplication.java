@@ -1,4 +1,4 @@
-import com.bootcoding.java.oops.Cycle;
+import com.bootcoding.java.OOPS.Cycle;
 
 public class CycleApplication {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.bootcoding.java.oops;
+package com.bootcoding.java.OOPS;
 
 public class Cycle {
     int price;

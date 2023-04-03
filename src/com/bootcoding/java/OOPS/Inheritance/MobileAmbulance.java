@@ -1,6 +1,6 @@
-package com.bootcoding.java.oops.Inheritance;
+package com.bootcoding.java.OOPS.Inheritance;
 
-import com.bootcoding.java.oops.Encapsulation.Ambulance;
+import com.bootcoding.java.OOPS.Encapsulation.Ambulance;
 
 public class MobileAmbulance extends Ambulance {
     //  parent protected property becomes ->
