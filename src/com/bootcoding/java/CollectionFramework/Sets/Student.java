@@ -1,6 +1,6 @@
 package com.bootcoding.java.CollectionFramework.Sets;
 
-public class Student {
+public class Student implements Comparable<Student> {
     public Student(String name, int rollNo) {
         this.name = name;
         this.rollNo = rollNo;
@@ -18,4 +18,8 @@ public class Student {
     int rollNo;
 
 
+    @Override
+    public int compareTo(Student that) {
+        return this.rollNo- that.rollNo;
+    }
 }
