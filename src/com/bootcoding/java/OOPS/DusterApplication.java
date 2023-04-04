@@ -1,4 +1,4 @@
-package com.bootcoding.java.oops;
+package com.bootcoding.java.OOPS;
 
 import com.bootcoding.java.Duster;
 

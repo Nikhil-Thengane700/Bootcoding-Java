@@ -1,4 +1,4 @@
-package com.bootcoding.java.oops;
+package com.bootcoding.java.OOPS;
 public class FinalKeywords {
     public static void main(String[] args) {
         final int a=10;
