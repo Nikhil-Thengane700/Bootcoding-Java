@@ -1,4 +1,4 @@
-package com.bootcoding.java.oops.Encapsulation;
+package com.bootcoding.java.OOPS.Encapsulation;
 
 public class AmbulanceApplication {
     public static void main(String[] args) {
