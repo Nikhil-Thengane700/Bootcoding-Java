@@ -1,9 +1,9 @@
-package com.bootcoding.java.oops.Assignment.Discount.Service;
+package com.bootcoding.java.OOPS.Assignment.Discount.Service;
 
-import com.bootcoding.java.oops.Assignment.Discount.Customer;
-import com.bootcoding.java.oops.Assignment.Discount.NameGenrater;
-import com.bootcoding.java.oops.Assignment.Discount.OrderCountGenrater;
-import com.bootcoding.java.oops.Assignment.Discount.VisitCountGenareter;
+import com.bootcoding.java.OOPS.Assignment.Discount.Customer;
+import com.bootcoding.java.OOPS.Assignment.Discount.NameGenrater;
+import com.bootcoding.java.OOPS.Assignment.Discount.OrderCountGenrater;
+import com.bootcoding.java.OOPS.Assignment.Discount.VisitCountGenareter;
 
 import java.util.UUID;
 

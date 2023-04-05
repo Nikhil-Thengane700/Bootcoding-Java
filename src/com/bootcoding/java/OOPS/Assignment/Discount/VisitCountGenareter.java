@@ -1,4 +1,4 @@
-package com.bootcoding.java.oops.Assignment.Discount;
+package com.bootcoding.java.OOPS.Assignment.Discount;
 
 import java.util.Random;
 

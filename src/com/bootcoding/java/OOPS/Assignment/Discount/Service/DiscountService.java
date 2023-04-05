@@ -1,7 +1,7 @@
-package com.bootcoding.java.oops.Assignment.Discount.Service;
+package com.bootcoding.java.OOPS.Assignment.Discount.Service;
 
-import com.bootcoding.java.oops.Assignment.Discount.Customer;
-import com.bootcoding.java.oops.Assignment.Discount.Discount;
+import com.bootcoding.java.OOPS.Assignment.Discount.Customer;
+import com.bootcoding.java.OOPS.Assignment.Discount.Discount;
 
 public class DiscountService {
     Customer customer = new Customer();
