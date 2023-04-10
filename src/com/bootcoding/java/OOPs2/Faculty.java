@@ -15,6 +15,9 @@ public class Faculty {
     public void removeProjector ( Projector [] projectors ){
 
 
+        System.out.println("All projector has been removed");
+
+
 
         }
 }

@@ -1,4 +1,4 @@
-import com.bootcoding.java.oops.Inheritance.Sim;
+import com.bootcoding.java.OOPS.Inheritance.Sim;
 
 public class Idea implements Sim {
     static void inserted(){
