@@ -18,23 +18,24 @@ public class Person {
                 '}';
     }
 
+
     public void setName(String name) {
         this.name = name;
     }
 
     public int getAge() {
-        return age;
+         return age;
     }
 
     public void setAge(int age) {
-        this.age = age;
+         this.age = age;
     }
 
     public long getPhone() {
-        return phone;
+         return phone;
     }
 
     public void setPhone(long phone) {
-        this.phone = phone;
+         this.phone = phone;
     }
 }
