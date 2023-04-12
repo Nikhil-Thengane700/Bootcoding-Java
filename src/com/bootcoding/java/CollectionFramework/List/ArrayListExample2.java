@@ -5,6 +5,7 @@ import java.util.List;
 
 public class ArrayListExample2 {
     public static void main(String[] args) {
+
         List<Person> list = new ArrayList<>();
         list.add(new Person("Raja", 22, 356598154));
         list.add(new Person("Bunty", 23, 896598154));
