@@ -5,6 +5,7 @@ import java.util.List;
 
 public class LearnArrayList {
     public static void main(String[] args) {
+
 //        ArrayList<String> studentsName = new ArrayList<>(); //it will create empty array  size n then n+n/2  +1
 //        studentsName.add("Rakesh");
 //        studentsName.add("Ritik");
