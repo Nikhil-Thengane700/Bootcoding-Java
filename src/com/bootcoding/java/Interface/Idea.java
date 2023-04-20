@@ -1,0 +1,11 @@
+package com.bootcoding.java.Interface;
+
+public class Idea implements Sim{
+    @Override
+    public void inserted() {
+        System.out.println("Idea Sim inserted");
+    }
+
+
+
+}
