@@ -1,6 +1,7 @@
 package com.bootcoding.java.OOPS.Encapsulation.Election;
 
 public class Election {
+
     private int electionDate;
     private String city;
     private int noOfCandidate;
