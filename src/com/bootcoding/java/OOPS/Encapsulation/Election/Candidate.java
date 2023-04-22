@@ -1,6 +1,7 @@
 package com.bootcoding.java.OOPS.Encapsulation.Election;
 
 public class Candidate {
+
     private String name;
     private String partyName;
     private String income;
