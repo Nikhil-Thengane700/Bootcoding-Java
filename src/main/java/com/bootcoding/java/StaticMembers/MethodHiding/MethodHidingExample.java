@@ -21,6 +21,8 @@ public class MethodHidingExample {
         specialFamilyMember.dance(); // Calls the static method from the SpecialMember class
 
         // Using the superclass reference to call the method
+       // When we use a reference of type Family to point to a SpecialMember object and call dance(),
+     // it still calls the method from the Family class. This is method hiding in action.
         Family referenceToSpecial = new SpecialMember();
         referenceToSpecial.dance(); // Calls the static method from the Family class
     }
